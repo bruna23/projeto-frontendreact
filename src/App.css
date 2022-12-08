@@ -1,0 +1,50 @@
+.imgheader {
+    background: ('../assets/spcae.jpg');
+    background-color: black;
+}
+
+.containermae {
+    background-color: white;
+    background-position: 100% 50%;
+    background-size: cover;
+}
+
+.divfiltro {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    width: 173px;
+}
+
+.divbox {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 10px 0;
+}
+
+.headermae {
+    background-image: url('./assets/spcae1.jpg');
+    background-position: 100% 60%;
+    background-size: cover;
+}
+
+.tituloprinc {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.listamen {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e94a49;
+    height: 31px;
+    width: 1350px;
+    align-items: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
